@@ -1,5 +1,5 @@
-#Slot App
-##Description
+# Slot App
+## Description
 In this project I simulated slot machine using Lumen.
 
 I generate a random board with 5 columns and 3 rows using 10 different symbols (9, 10, J, Q,
@@ -51,7 +51,7 @@ From the example above 2 paylines are matched "J J J" from "**0 3 6** 9 12" and 
 
 
 
-##Instalation
+## Instalation
 after clone files
 ```
 composer install
