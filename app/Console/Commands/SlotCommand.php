@@ -49,8 +49,8 @@ class SlotCommand extends Command
             '11' => $array[array_rand($array)],
             '14' => $array[array_rand($array)],
         );
-        // Your sample array for test
-        /*
+        // sample array for test
+
         $arrayRand = array(
             '0' => 'J',
             '3' => 'J',
@@ -68,7 +68,7 @@ class SlotCommand extends Command
             '11' => 'Q',
             '14' => 'A',
         );
-        */
+
 
 
         $paylineArray = [[0, 3, 6, 9, 12], [1, 4, 7, 10, 13], [2, 5, 8, 11, 14], [0, 4, 8, 10, 12], [2, 4, 6, 10, 14]];
