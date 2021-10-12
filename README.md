@@ -51,7 +51,7 @@ From the example above 2 paylines are matched "J J J" from "**0 3 6** 9 12" and 
 
 
 
-## Instalation
+## Installation
 after clone files
 ```
 composer install
